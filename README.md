@@ -17,4 +17,4 @@
  * [Counterup.js](https://github.com/bfintal/Counter-Up) by [Benjamin Intal](https://github.com/bfintal)
 
 ### License
-MIT License 2017 | All creative rights by [@realvjy](https://github.com/realvjy)
+MIT License 2017 | All creative rights by [Samuel Rajasingh](https://github.com/samuelrajasingh)
