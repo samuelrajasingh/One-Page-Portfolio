@@ -8,7 +8,6 @@
 * 100% mobile-friendly
 * Case study and Testimonial sliders
 * Animated counter-up statistics section
-* PSD files included
 
 
 ### Credits
